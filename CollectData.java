@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
  *Application to implement Tree-Insert and verify Theorem 12.4. 
  *
  *Program 1 
- *@author Erika Yardumian - CPSC - 3283
+ *@author Erika Yardumian 
  *@version 5/31/19
  */
 
