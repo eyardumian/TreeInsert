@@ -12,7 +12,7 @@ import java.io.FileNotFoundException;
  */
 
 public class CollectData {
-      // Creates the node class.
+   // Creates the node class.
    static class Node {
       int key;
       Node left, right, p;
@@ -33,7 +33,6 @@ public class CollectData {
     *@param key is TreeInsert.
     */
    static void TreeInsert(Node z, int key) {
-      
       Node y = null;
       Node x = root;
       while (x != null) {
